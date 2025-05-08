@@ -1,0 +1,10 @@
+# Cryptocurrency Price Analyzer
+
+This project analyzes the historical price trends of cryptocurrencies using the CoinGecko API.
+
+## How to Run
+
+1. Install requirements: `pip install -r requirements.txt`
+2. Extract data: `python code/extract.py`
+3. Transform data: `python code/transform.py`
+4. Launch Streamlit: `streamlit run code/dashboard.py`
